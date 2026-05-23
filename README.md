@@ -1,4 +1,4 @@
-#The Geometric Neuron (v4)
+# The Geometric Neuron (v4)
 
 Phase-Space Computation, Moiré Resonance, and the Death of the McCulloch-Pitts Approximation
 
