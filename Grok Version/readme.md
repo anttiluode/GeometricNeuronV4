@@ -1,5 +1,7 @@
 # Geometric Neuron v4.1 (Grok Edition)
 
+![pic](grok.png)
+
 **Phase-Space Geometry meets Biological Reality**
 
 A physicalist single-neuron model where computation emerges from wave geometry and the Axon Initial Segment (AIS) grating — not from scalar weights or backpropagation.
@@ -29,17 +31,6 @@ Learning happens primarily through **geometric alignment**. Morphological plasti
 - **Sharp Frequency Selectivity**: Excellent lock when frequencies match, destructive interference otherwise.
 
 ---
-
-## Repository Structure (Grok Version)
-
-geometric-neuron/
-├── grok_version/
-│   ├── phase_space_torus.py          ← Main interactive UI
-│   ├── geom_neuron.py                ← Clean core class (optional)
-│   ├── requirements.txt
-│   └── README.md                     ← This file
-├── LICENSE
-└── ...
 
 ## How to Run
 
