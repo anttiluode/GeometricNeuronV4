@@ -32,7 +32,7 @@ Morphological Plasticity. It physically lengthens or shortens its AIS grating, l
 
 geom_neuronV4.py: The physicalist wave-resonance engine. A self-tuning biological cell that replaces nn.Linear.
 
-![pic](geo_neu_v4.png)
+![pic](geo_neu_V4.png)
 
 phase_space_torus.py: A live 3D UI. Watch 1D signals physically unfold into complex Takens embeddings (Strange Attractors), and watch the cell physically stretch its internal geometry to 
 hunt for phase-locks.
